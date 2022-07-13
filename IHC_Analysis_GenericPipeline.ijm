@@ -306,4 +306,3 @@ for (i=0; i<wlist.length; i++){
 	selectWindow(window); 
 	run("Close"); 
 	} 
-	} 
